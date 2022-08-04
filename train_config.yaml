@@ -1,0 +1,10 @@
+exp_name: 'no_ref_no_hierc_v1'
+lr: 0.001
+epochs: 500
+batch_size: 16
+img_size: 224
+
+train_dir: 'alc_data/train'
+val_dir: 'alc_data/val'
+
+model_save_root: 'saved_models'
